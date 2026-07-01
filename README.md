@@ -78,23 +78,10 @@ Participação no desenvolvimento Front-end utilizando **React**, em colaboraç�
 
 ---
 
-## 📈 Estatísticas
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RafaelCorrea160407&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCorrea160407&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelCorrea160407&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 ## 🎯 Atualmente
 
 - 💼 Desenvolvedor de Software na **IBMEC Jr. Soluções**
-- 📚 Estudando **Spring Boot** e arquitetura de software
+- 📚 Estudando **Spring Boot** e arquitetura de software em um projeto pessoal
 - 🚀 Desenvolvendo um **ERP**
 - 📖 Desenvolvendo uma **Plataforma de Estudos**
 - 🌱 Aprimorando conhecimentos em Desenvolvimento Back-end
