@@ -68,7 +68,7 @@ API REST desenvolvida com **Django REST Framework** para gerenciamento do proces
 
 Sistema para gerenciamento de produtos e estoque utilizando **Java** e **MySQL**.
 
-**Tecnologias:** Java • MySQL • POO
+**Tecnologias:** Pyhton • Sqlite • POO • Django • DRF
 
 ---
 
