@@ -82,7 +82,7 @@ Participação no desenvolvimento Front-end utilizando **React**, em colaboraç�
 
 - 💼 Desenvolvedor de Software na **IBMEC Jr. Soluções**
 - 📚 Estudando **Spring Boot** e arquitetura de software em um projeto pessoal
-- 🚀 Desenvolvendo um **ERP**
+- 🚀 Desenvolvendo um **ERP** (Planejamento de Recursos Empresariais)
 - 📖 Desenvolvendo uma **Plataforma de Estudos**
 - 🌱 Aprimorando conhecimentos em Desenvolvimento Back-end
 
