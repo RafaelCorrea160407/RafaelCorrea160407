@@ -35,7 +35,6 @@ Estou sempre buscando novos desafios para evoluir como desenvolvedor e contribui
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 ---
@@ -73,14 +72,6 @@ Sistema para gerenciamento de produtos e estoque utilizando **Java** e **MySQL**
 
 ---
 
-### 🇧🇷 Biblioteca de Documentos Brasileiros
-
-Biblioteca Python para geração e validação de documentos brasileiros como CPF e CNPJ.
-
-**Tecnologias:** Python • Testes Automatizados
-
----
-
 ### 🏢 ERP (Em desenvolvimento)
 
 Participação no desenvolvimento Front-end utilizando **React**, em colaboração com uma equipe multidisciplinar.
@@ -115,6 +106,6 @@ Participação no desenvolvimento Front-end utilizando **React**, em colaboraç�
 📧 **Email:** rafaelcsn123@gmail.com
 
 💼 **LinkedIn:**  
-www.linkedin.com/in/rafael-correa-soares-nogueira-8a244b351/
+www.linkedin.com/in/rafaelcorreasoaresnogueira
 
 📍 **Rio de Janeiro - RJ**
