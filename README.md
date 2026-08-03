@@ -12,7 +12,7 @@ Sou estudante de **Ciência de Dados e Inteligência Artificial** no **IBMEC**, 
 
 Atualmente faço parte da **IBMEC Jr. Soluções**, onde participo de reuniões de levantamento e refinamento de requisitos, colaboro em equipes ágeis e atuo no desenvolvimento **Front-end** de um sistema **ERP** utilizando React.
 
-Tenho experiência com desenvolvimento de **APIs REST**, modelagem de banco de dados e construção de aplicações utilizando **Python, Django, Django REST Framework, Java e Spring Boot**.
+Tenho experiência com desenvolvimento de **APIs REST**, modelagem de banco de dados e construção de aplicações utilizando **Python, Django, Django REST Framework e Java**.
 
 Estou sempre buscando novos desafios para evoluir como desenvolvedor e contribuir com soluções que gerem impacto.
 
@@ -27,7 +27,6 @@ Estou sempre buscando novos desafios para evoluir como desenvolvedor e contribui
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
