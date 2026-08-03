@@ -8,7 +8,7 @@ Desenvolvedor de Software • Estudante de Ciência de Dados & IA no IBMEC
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência de Dados e Inteligência Artificial** no **IBMEC**, atualmente no **4º período**, com foco em **Desenvolvimento Back-end** e Engenharia de Software.
+Sou estudante de **Ciência de Dados e Inteligência Artificial** no **IBMEC**, atualmente no **4º período**.
 
 Atualmente faço parte da **IBMEC Jr. Soluções**, onde participo de reuniões de levantamento e refinamento de requisitos, colaboro em equipes ágeis e atuo no desenvolvimento **Front-end** de um sistema **ERP** utilizando React.
 
