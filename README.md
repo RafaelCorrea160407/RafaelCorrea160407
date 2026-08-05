@@ -40,7 +40,7 @@ Além do desenvolvimento web, venho construindo projetos voltados para **Data An
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,django,mysql,sqlite,git,github,tailwind,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,react,nextjs,django,mysql,sqlite,git,github,vscode"/>
 
 </p>
 
@@ -49,8 +49,6 @@ Além do desenvolvimento web, venho construindo projetos voltados para **Data An
 - Python
 - SQL
 - Pandas
-- NumPy
-- Plotly
 - Streamlit
 - OpenAI API
 
@@ -59,7 +57,6 @@ Além do desenvolvimento web, venho construindo projetos voltados para **Data An
 - Django
 - Django REST Framework
 - React
-- Next.js
 - Tailwind CSS
 
 ---
@@ -168,23 +165,11 @@ Participação no desenvolvimento Front-end.
 
 # 🌱 Atualmente estudando
 
-- SQL Avançado
+- Pandas Python
 - Engenharia de Dados
-- Machine Learning
+- Power BI
 - PostgreSQL
-- IA Generativa
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RafaelCorrea160407&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCorrea160407&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- Estrutura de Dados
 
 ---
 
