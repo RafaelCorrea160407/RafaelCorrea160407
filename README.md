@@ -285,7 +285,7 @@ Estudando:
 |:--------:|:-----:|:-------------:|:------------:|
 | Ciência de Dados | Inteligência Artificial | Engenharia de Dados | Business Intelligence |
 | Visualização de Dados | IA Generativa | APIs REST | Dashboards |
-| Automação | ETL | SQL |
+| Automação | ETL | SQL | Power BI |
 
 </div>
 
