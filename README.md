@@ -1,97 +1,210 @@
 <h1 align="center">Olá! 👋 Eu sou Rafael Correa</h1>
 
 <h3 align="center">
-Desenvolvedor de Software • Estudante de Ciência de Dados & IA no IBMEC
+Data Science & Artificial Intelligence Student
 </h3>
+
+<p align="center">
+💻 Python • 📊 SQL • 📈 Data Analytics • 🤖 AI • 🌐 Web Development
+</p>
+
+<p align="center">
+<a href="https://github.com/RafaelCorrea160407">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rafaelcorreasoaresnogueira">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rafaelcsn123@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
 Sou estudante de **Ciência de Dados e Inteligência Artificial** no **IBMEC**, atualmente no **4º período**.
 
-Atualmente faço parte da **IBMEC Jr. Soluções**, onde participo de reuniões de levantamento e refinamento de requisitos, colaboro em equipes ágeis e atuo no desenvolvimento **Front-end** de um sistema **ERP** utilizando React.
+Tenho interesse em transformar dados em soluções que apoiem a tomada de decisão, desenvolvendo aplicações de análise, visualização e automação utilizando **Python** e **SQL**.
 
-Tenho experiência com desenvolvimento de **APIs REST**, modelagem de banco de dados e construção de aplicações utilizando **Python, Django, Django REST Framework e Java**.
+Atualmente faço parte da **IBMEC Jr. Soluções**, onde colaboro no desenvolvimento de um sistema ERP, participando do levantamento de requisitos, refinamento de funcionalidades e desenvolvimento Front-end utilizando **React**.
 
-Estou sempre buscando novos desafios para evoluir como desenvolvedor e contribuir com soluções que gerem impacto.
-
----
-
-## 🚀 Tecnologias
-
-### 💻 Linguagens
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Além do desenvolvimento web, venho construindo projetos voltados para **Data Analytics**, **Business Intelligence**, **Engenharia de Dados** e **Inteligência Artificial**.
 
 ---
 
-### ⚙️ Frameworks e Bibliotecas
+# 💻 Tecnologias
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,django,mysql,sqlite,git,github,tailwind,vscode"/>
+
+</p>
+
+### 📊 Dados & IA
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Plotly
+- Streamlit
+- OpenAI API
+
+### 🌐 Desenvolvimento
+
+- Django
+- Django REST Framework
+- React
+- Next.js
+- Tailwind CSS
 
 ---
 
-### 🗄️ Banco de Dados
+# 🚀 Projetos
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<table>
 
----
+<tr>
 
-### 🛠 Ferramentas
+<td width="50%">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+### 📊 Financial Insights
 
----
+Dashboard financeiro inteligente utilizando Python e IA.
 
-## 📌 Projetos em Destaque
+**Python • Pandas • Plotly • Streamlit**
+
+<a href="LINK_DO_REPOSITORIO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelCorrea160407&repo=Financial_Insights&theme=tokyonight&hide_border=true"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📈 Financial Insights V2
+
+Nova versão focada em SQL, PostgreSQL e escalabilidade.
+
+**🚧 Em desenvolvimento**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📂 Organizador Inteligente
+
+Organização automática de arquivos utilizando Python.
+
+<a href="LINK_DO_REPOSITORIO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelCorrea160407&repo=Organizador_Arquivos&theme=tokyonight&hide_border=true"/>
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 🎓 Sistema de Validação de Estágios
 
-API REST desenvolvida com **Django REST Framework** para gerenciamento do processo de validação de estágios acadêmicos.
+API REST desenvolvida com Django REST Framework.
 
-**Tecnologias:** Python • Django • DRF • SQLite • Swagger
+<a href="https://github.com/Projetos-de-Extensao/PBE_26.1_8002_IV">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Projetos-de-Extensao&repo=PBE_26.1_8002_IV&theme=tokyonight&hide_border=true"/>
+</a>
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🛒 Sistema de Gestão para Mercadinho
 
-Sistema para gerenciamento de produtos e estoque utilizando **Java** e **MySQL**.
+Controle de estoque, produtos e vendas.
 
-**Tecnologias:** Pyhton • Sqlite • POO • Django • DRF
+<a href="https://github.com/KaueFSS/MeuNegocio_App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KaueFSS&repo=MeuNegocio_App&theme=tokyonight&hide_border=true"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🏢 ERP IBMEC Jr.
+
+Participação no desenvolvimento Front-end.
+
+**React • Next.js • Tailwind CSS**
+
+🔒 Repositório privado
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-### 🏢 ERP (Em desenvolvimento)
+# 🎯 Áreas de Interesse
 
-Participação no desenvolvimento Front-end utilizando **React**, em colaboração com uma equipe multidisciplinar.
-
----
-
-## 🎯 Atualmente
-
-- 💼 Desenvolvedor de Software na **IBMEC Jr. Soluções**
-- 📚 Estudando **Spring Boot** e arquitetura de software em um projeto pessoal
-- 🚀 Desenvolvendo um **ERP** (Planejamento de Recursos Empresariais)
-- 📖 Desenvolvendo uma **Plataforma de Estudos**
-- 🌱 Aprimorando conhecimentos em Desenvolvimento Back-end
+- 📊 Ciência de Dados
+- 📈 Business Intelligence
+- 🗄 Engenharia de Dados
+- 🤖 Inteligência Artificial
+- 📉 Visualização de Dados
 
 ---
 
-## 📫 Contato
+# 🌱 Atualmente estudando
 
-📧 **Email:** rafaelcsn123@gmail.com
+- SQL Avançado
+- Engenharia de Dados
+- Machine Learning
+- PostgreSQL
+- IA Generativa
 
-💼 **LinkedIn:**  
-www.linkedin.com/in/rafaelcorreasoaresnogueira
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RafaelCorrea160407&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCorrea160407&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Contato
+
+📧 **Email**  
+rafaelcsn123@gmail.com
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/rafaelcorreasoaresnogueira
+
+🐙 **GitHub**  
+https://github.com/RafaelCorrea160407
 
 📍 **Rio de Janeiro - RJ**
+
+---
+
+<p align="center">
+
+⭐ Sempre aberto para colaborar em projetos envolvendo Ciência de Dados, Engenharia de Dados, IA e Desenvolvimento de Software.
+
+</p>
