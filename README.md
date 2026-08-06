@@ -30,6 +30,7 @@ Transformando dados em soluções com Python, SQL e Inteligência Artificial.
 
 </p>
 <a href="https://rafaelcsn-portfolio.vercel.app/">
+</p>
 
 ---
 
